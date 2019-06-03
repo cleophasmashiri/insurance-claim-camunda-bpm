@@ -1,4 +1,4 @@
-# Insurance-8Claim-Camunda-BPM
+# Insurance-Claim-Camunda-BPM
 Insurance Claim Camunda BPM and Spring Framework Tutorial.
 
 In the following series of tutorials I am going to show how you to implement an end-to-end solution for an insurance claim process using Camunda BPM and Spring Framework.
