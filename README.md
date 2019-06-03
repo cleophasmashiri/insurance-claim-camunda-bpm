@@ -12,7 +12,7 @@ In the following series of tutorials I am going to show how you to implement an 
 7. Rest API.
 8. Angular UI.
 9. Handling Errors.
-10. KPI and SLA.
+10. KPI, SLA and Dashboards.
 
 In this tutorial I am going to cover "1. Collaborative modelling with BPMN2". I will briefly look at BPMN2 standard, and then I will show you how to collaboratively model the insurance vehicle claim process using Camunda modeler.
 
