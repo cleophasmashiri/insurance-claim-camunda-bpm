@@ -20,3 +20,5 @@ Business Case: Insurance Claims Process.
 Introduction to BPMN 2.
 Collaborative modelling with BPMN 2 and Camunda Modeler
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=2XeTJQfz_YQ)
+
