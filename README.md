@@ -19,9 +19,9 @@ In the following series of tutorials I am going to show how you to implement an 
 In this tutorial I will show you how to collaboratively model the insurance vehicle claim process using Camunda modeler.
 
 1. Business Case: Insurance Claims Process. 
-     a. Allow a customer to submit an insurance claim from a mobile device, and take photos, view claim status and receive email notifications as the claim is processed..
-     b. Allow a manager to assign an adjuster, and approve or decline an insurance claim.
-     c. Allow an adjuster to inspect a damaged vehicle.
+     ..* a. Allow a customer to submit an insurance claim from a mobile device, and take photos, view claim status and receive email notifications as the claim is processed..
+     ..* b. Allow a manager to assign an adjuster, and approve or decline an insurance claim.
+     ..* c. Allow an adjuster to inspect a damaged vehicle.
         
 2. Collaborative modelling with BPMN 2 and Camunda Modeler.
     ..* Development, clone Spring Boot sample project https://github.com/cleophasmashiri/spring-boot-camunda-demo.
