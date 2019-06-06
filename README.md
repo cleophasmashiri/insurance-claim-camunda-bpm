@@ -11,14 +11,34 @@ In the following series of tutorials I am going to show how you to implement an 
 6. [Security with JWT](/README_Security_with_JWT.md).
 7. [Rest API](/README_Rest_API.md).
 8. [Angular UI](/README_Angular_UI.md).
-9. [Handling Errors](/README_Handling_Errors.md).
+
 10. [KPI, SLA and Dashboards](/README_KPI_SLA_and_Dashboards.md).
 
-In this tutorial I am going to cover "1. Collaborative modelling with BPMN2". I will briefly look at BPMN2 standard, and then I will show you how to collaboratively model the insurance vehicle claim process using Camunda modeler.
 
-Business Case: Insurance Claims Process.
-Introduction to BPMN 2.
-Collaborative modelling with BPMN 2 and Camunda Modeler
+# Collaborative modelling with BPMN 2
+In this tutorial I will show you how to collaboratively model the insurance vehicle claim process using Camunda modeler.
 
+1. Business Case: Insurance Claims Process. 
+     a. Allow a customer to submit an insurance claim from a mobile device, and take photos, view claim status and receive email notifications as the claim is processed..
+     b. Allow a manager to assign an adjuster, and approve or decline an insurance claim.
+     c. Allow an adjuster to inspect a damaged vehicle.
+        
+2. Collaborative modelling with BPMN 2 and Camunda Modeler.
+    ..* Development, clone Spring Boot sample project https://github.com/cleophasmashiri/spring-boot-camunda-demo.
+    ..* Model claims process with Camunda Modeler, the 3 amigos session, product owner, tester, developer/analyst.
+    ..* Deployment/Simulation runs.
+    
+3. References.
+
+⋅⋅* https://www.omg.org/bpmn/Documents/BPMN_1-1_Specification.pdf.     
+..* http://www.bpmn.org/.                                             
+..* https://camunda.com/download/modeler/.                            
+..* https://demo.bpmn.io/.                                            
+..* https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation. 
+..* https://docs.camunda.org/get-started/.
+..* Spring Boot sample project https://github.com/cleophasmashiri/spring-boot-camunda-demo.
+
+    
+   
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/2XeTJQfz_YQ/0.jpg)](https://www.youtube.com/watch?v=2XeTJQfz_YQ)
 
