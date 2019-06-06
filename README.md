@@ -12,18 +12,20 @@ In the following series of tutorials I am going to show how you to implement an 
 7. [Rest API](/README_Rest_API.md).
 8. [Angular UI](/README_Angular_UI.md).
 
-10. [KPI, SLA and Dashboards](/README_KPI_SLA_and_Dashboards.md).
+9. [KPI, SLA and Dashboards](/README_KPI_SLA_and_Dashboards.md).
 
 
 # Collaborative modelling with BPMN 2
 In this tutorial I will show you how to collaboratively model the insurance vehicle claim process using Camunda modeler.
 
 1. Business Case: Insurance Claims Process. 
-     ..* a. Allow a customer to submit an insurance claim from a mobile device, and take photos, view claim status and receive email notifications as the claim is processed..
+
+     ..* a. Allow a customer to submit an insurance claim from a mobile device, and take photos, view claim status and receive email notifications as the claim is processed.
      ..* b. Allow a manager to assign a consultant, and approve or decline an insurance claim.
      ..* c. Allow a consultant to inspect a damaged vehicle.
         
 2. Collaborative modelling with BPMN 2 and Camunda Modeler.
+
     ..* Development, clone Spring Boot sample project https://github.com/cleophasmashiri/spring-boot-camunda-demo.
     ..* Model claims process with Camunda Modeler, the 3 amigos session, product owner, tester, developer/analyst.
     ..* Deployment/Simulation runs.
