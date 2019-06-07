@@ -16,6 +16,9 @@ In the following series of tutorials I am going to show how you to implement an 
 
 
 # Collaborative modelling with BPMN 2
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/zMQrwpCi7LU/0.jpg)](https://www.youtube.com/watch?v=zMQrwpCi7LU)
+
 In this tutorial I will show you how to collaboratively model the insurance vehicle claim process using Camunda modeler.
 
 1. Business Case: Insurance Claims Process. 
@@ -49,5 +52,5 @@ In this tutorial I will show you how to collaboratively model the insurance vehi
     ⋅⋅* Promotes user centered design by envolving all stackholders in the design and development process.
     ⋅⋅* Looks at business holistically. 
    
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/zMQrwpCi7LU/0.jpg)](https://www.youtube.com/watch?v=zMQrwpCi7LU)
+
 
