@@ -23,34 +23,33 @@ In this tutorial I will show you how to collaboratively model the insurance vehi
 
 1. Business Case: Insurance Claims Process. 
 
-     ..* Allow a customer to submit an insurance claim from a mobile device, and take photos, view claim status and receive email notifications as the claim is processed.
-     ..* Allow a manager to assign a consultant, and approve or decline an insurance claim.
-     ..* Allow a consultant to inspect a damaged vehicle.
-     --* Select a team.
+     * Allow a customer to submit an insurance claim from a mobile device, and take photos, view claim status and receive email notifications as the claim is processed.
+     * Allow a manager to assign a consultant, and approve or decline an insurance claim.
+     * Allow a consultant to inspect a damaged vehicle.
+     * Select a team.
         
 2. Collaborative modelling with BPMN 2 and Camunda Modeler.
-
-    ..* Development, clone Spring Boot sample project https://github.com/cleophasmashiri/spring-boot-camunda-demo.
-    ..* Model claims process with Camunda Modeler, the 3 amigos session, product owner, tester, developer/analyst.
-    ..* Deployment/Simulation run in cockpit.
+    * Development, clone Spring Boot sample project https://github.com/cleophasmashiri/spring-boot-camunda-demo.
+    * Model claims process with Camunda Modeler, the 3 amigos session, product owner, tester, developer/analyst.
+    * Deployment/Simulation run in cockpit.
     
 3. References.
+    * https://www.omg.org/bpmn/Documents/BPMN_1-1_Specification.pdf.     
+    * http://www.bpmn.org/.                                             
+    * https://camunda.com/download/modeler/.                            
+    * https://demo.bpmn.io/.                                            
+    * https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation. 
+    * https://docs.camunda.org/get-started/.
+    * Spring Boot sample project https://github.com/cleophasmashiri/spring-boot-camunda-demo.
 
-⋅⋅* https://www.omg.org/bpmn/Documents/BPMN_1-1_Specification.pdf.     
-..* http://www.bpmn.org/.                                             
-..* https://camunda.com/download/modeler/.                            
-..* https://demo.bpmn.io/.                                            
-..* https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation. 
-..* https://docs.camunda.org/get-started/.
-..* Spring Boot sample project https://github.com/cleophasmashiri/spring-boot-camunda-demo.
 
 4. Summary.
      
-    ⋅⋅* For all stackholders, provides a common visual language. 
-    ⋅⋅* Works well for iterative development with constant feedback sessions, and simulation runs. 
-    ⋅⋅* Solves a problem before coding. 
-    ⋅⋅* Promotes user centered design by envolving all stackholders in the design and development process.
-    ⋅⋅* Looks at business holistically. 
+    * For all stackholders, provides a common visual language. 
+    * Works well for iterative development with constant feedback sessions, and simulation runs. 
+    * Solves a problem before coding. 
+    * Promotes user centered design by envolving all stackholders in the design and development process.
+    * Looks at business holistically. 
    
 
 
