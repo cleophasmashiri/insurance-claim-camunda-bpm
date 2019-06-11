@@ -6,12 +6,11 @@ In the following series of tutorials I am going to show how you to implement an 
 1. [Collaborative modelling with Camunda, BPMN 2 and Springboot](/README.md).
 2. [Spring Framework and Camunda](/README_Spring_Framework_and_Camunda.md).
 3. [Business Rules with DMN](/README_Business_Rules_with_DMN.md).
-4. [Escalation](/README_Escalation.md).
+4. [Escalation and Error Handling](/README_Escalation.md).
 5. [Handling Documents](/README_Handling_Documents.md).
 6. [Security with JWT](/README_Security_with_JWT.md).
 7. [Rest API](/README_Rest_API.md).
 8. [Angular UI](/README_Angular_UI.md).
-
 9. [KPI, SLA and Dashboards](/README_KPI_SLA_and_Dashboards.md).
 
 

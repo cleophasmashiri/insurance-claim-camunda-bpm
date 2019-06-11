@@ -3,7 +3,7 @@ Insurance Claim Camunda BPM and Spring Framework Tutorial.
 
 In the following series of tutorials I am going to show how you to implement an end-to-end solution for an insurance claim process using Camunda BPM and Spring Framework.
 
-1. [Collaborative modelling with BPMN2](/README_Collaborative_Modelling_BPMN2.md).
+1. [Collaborative modelling with BPMN2](/README_Spring_Framework_and_Camunda.md).
 2. [Spring Framework and Camunda](/README_Spring_Framework_and_Camunda.md).
 3. [Business Rules with DMN](/README_Business_Rules_with_DMN.md).
 4. [Escalation](/README_Escalation.md).
