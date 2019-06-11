@@ -3,8 +3,8 @@ Insurance Claim Camunda BPM and Spring Framework Tutorial.
 
 In the following series of tutorials I am going to show how you to implement an end-to-end solution for an insurance claim process using Camunda BPM and Spring Framework.
 
-1. [Collaborative modelling with Camunda, BPMN 2 and Springboot](/README.md).
-2. [Spring Framework and Camunda](/README_Spring_Framework_and_Camunda.md).
+1. [Collaborative modeling with Camunda, BPMN 2 and Springboot](/README.md).
+2. [Spring Boot and Camunda, Delegates, Tests and User Forms](/README_Spring_Boot_Camunda_Delegates_Tests_User_Forms.md).
 3. [Business Rules with DMN](/README_Business_Rules_with_DMN.md).
 4. [Escalation and Error Handling](/README_Escalation.md).
 5. [Handling Documents](/README_Handling_Documents.md).
@@ -14,7 +14,7 @@ In the following series of tutorials I am going to show how you to implement an 
 9. [KPI, SLA and Dashboards](/README_KPI_SLA_and_Dashboards.md).
 
 
-# Collaborative modelling with BPMN 2
+# Collaborative modeling with BPMN 2
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/zMQrwpCi7LU/0.jpg)](https://www.youtube.com/watch?v=zMQrwpCi7LU)
 
@@ -27,7 +27,7 @@ In this tutorial I will show you how to collaboratively model the insurance vehi
      * Allow a consultant to inspect a damaged vehicle.
      * Select a team.
         
-2. Collaborative modelling with BPMN 2 and Camunda Modeler.
+2. Collaborative modeling with BPMN 2 and Camunda Modeler.
     * Development, clone Spring Boot sample project https://github.com/cleophasmashiri/spring-boot-camunda-demo.
     * Model claims process with Camunda Modeler, the 3 amigos session, product owner, tester, developer/analyst.
     * Deployment/Simulation run in cockpit.
