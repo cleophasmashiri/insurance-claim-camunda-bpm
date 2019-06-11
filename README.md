@@ -49,5 +49,11 @@ In this tutorial I will show you how to collaboratively model the insurance vehi
     * https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation. 
     * https://docs.camunda.org/get-started/.
     * Spring Boot sample project https://github.com/cleophasmashiri/spring-boot-camunda-demo.
-
+    
+ 
+***
+  #### Contacts
+  Email: cleophasmashiri@gmail.com
+  
+***
 
