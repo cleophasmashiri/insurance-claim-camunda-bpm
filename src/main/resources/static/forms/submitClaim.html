@@ -1,0 +1,77 @@
+<h4>Submit Claim</h4>
+<form role="form" class="form-horizontal">
+    <div class="control-group">
+        <label class="control-label">ID Number:</label>
+        <div class="controls">
+            <input type="text" class="form-control"
+                   cam-variable-name="firstName"
+                   cam-variable-type="String"
+                   required
+            />
+        </div>
+    </div>
+    <div class="control-group">
+        <label class="control-label">Vehicle Number Plate Number:</label>
+        <div class="controls">
+            <input type="text" class="form-control"
+                   cam-variable-name="vehicleNumberPlateNumber"
+                   cam-variable-type="String"
+                   required
+            />
+        </div>
+    </div>
+    <div class="control-group">
+        <label class="control-label">Accident Date</label>
+        <div class="controls">
+            <input type="Date" class="form-control"
+                   cam-variable-name="accidentDate"
+                   cam-variable-type="String"
+                   required
+            />
+        </div>
+    </div>
+    <div class="control-group">
+        <label class="control-label">Photo 1:</label>
+        <div class="controls">
+            <input type="file"
+                   id="photo1"
+                   cam-variable-name="photo1"
+                   cam-variable-type="File"
+                   cam-max-filesize="10000000"
+                   class="form-control" />
+        </div>
+    </div>
+    <div class="control-group">
+        <label class="control-label">Photo 2:</label>
+        <div class="controls">
+            <input type="file"
+                   id="photo2"
+                   cam-variable-name="photo2"
+                   cam-variable-type="File"
+                   cam-max-filesize="10000000"
+                   class="form-control" />
+        </div>
+    </div>
+    <div class="control-group">
+        <label class="control-label">Accident Severity</label>
+        <div class="controls">
+            <select cam-variable-name="accidentSeverity"
+                    cam-variable-type="String"
+                    class="form-control" required>
+                <option>Minor</option>
+                <option>Major</option>
+                <option>Write-Off</option>
+            </select>
+        </div>
+    </div>
+    <div class="control-group">
+        <label class="control-label">Customer Notes</label>
+        <div class="controls">
+            <textarea rows="4" class="form-control"
+                   cam-variable-name="customerNotes"
+                   cam-variable-type="String"
+                   required
+            />
+        </div>
+    </div>
+</form>
